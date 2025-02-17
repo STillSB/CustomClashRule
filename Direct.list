@@ -1,3 +1,5 @@
 DOMAIN-SUFFIX,stillsb.cool
 DOMAIN-SUFFIX,nomorewall.top
 DOMAIN-SUFFIX,m-team.cc
+# 第三方 copilot 服务
+DOMAIN-SUFFIX,codex.micosoft.icu
