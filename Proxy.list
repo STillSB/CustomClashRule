@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,nextcloud.com
 DOMAIN-SUFFIX,justmysocks.net
 DOMAIN-KEYWORD,z-lib
 DOMAIN-SUFFIX,missav.ai
+# Khan Academy
+DOMAIN-SUFFIX,cloudfront.net
