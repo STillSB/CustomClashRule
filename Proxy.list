@@ -7,3 +7,7 @@ DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,cloudfront.net
 # 富途moomoo
 DOMAIN-SUFFIX,moomoo.com
+# F-Droid
+DOMAIN-SUFFIX,f-droid.org
+# KOReader OTA
+DOMAIN-SUFFIX,ota.koreader.rocks
