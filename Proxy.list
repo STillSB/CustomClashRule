@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,f-droid.org
 # KOReader OTA
 DOMAIN-SUFFIX,ota.koreader.rocks
+# Product Hunt
+DOMAIN-SUFFIX,producthunt.com
