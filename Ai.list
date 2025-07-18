@@ -51,3 +51,6 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+# Cursor
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
