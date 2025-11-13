@@ -6,8 +6,9 @@ DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,imagedelivery.net
 # Khan Academy
 DOMAIN-SUFFIX,cloudfront.net
-# 富途moomoo
+# 炒股
 DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,api.ibkr.com
 # F-Droid
 DOMAIN-SUFFIX,f-droid.org
 # KOReader OTA
