@@ -4,11 +4,7 @@ DOMAIN-SUFFIX,justmysocks.net
 DOMAIN-KEYWORD,z-lib
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,imagedelivery.net
-# Khan Academy
-DOMAIN-SUFFIX,cloudfront.net
-# 炒股
 DOMAIN-SUFFIX,moomoo.com
-DOMAIN-SUFFIX,api.ibkr.com
 # F-Droid
 DOMAIN-SUFFIX,f-droid.org
 # KOReader OTA
@@ -17,3 +13,5 @@ DOMAIN-SUFFIX,ota.koreader.rocks
 DOMAIN-SUFFIX,producthunt.com
 # Unity
 DOMAIN-SUFFIX,docs.unity3d.com
+# Khan Academy
+DOMAIN-SUFFIX,cloudfront.net
