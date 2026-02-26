@@ -12,8 +12,6 @@ DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,ota.koreader.rocks
 # Product Hunt
 DOMAIN-SUFFIX,producthunt.com
-# Unity
-DOMAIN-SUFFIX,docs.unity3d.com
 # Khan Academy
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,mdblist.com
