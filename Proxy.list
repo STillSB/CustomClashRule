@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,producthunt.com
 # Khan Academy
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,mdblist.com
+# IBKR
+DOMAIN-SUFFIX,api.ibkr.com
