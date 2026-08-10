@@ -1,11 +1,13 @@
 DOMAIN-SUFFIX,stillsb.cool
 DOMAIN-SUFFIX,137471185.xyz
-DOMAIN,portal.citygrainla.com
-DOMAIN-SUFFIX,portablesubmarines.com
 DOMAIN-SUFFIX,0x29a.top
 DOMAIN-SUFFIX,m-team.cc
 # 第三方 copilot 服务
 DOMAIN-SUFFIX,codex.micosoft.icu
+#JMS
+DOMAIN,portal.citygrainla.com
+DOMAIN-SUFFIX,portablesubmarines.com
+
 
 
 ################################################################################
