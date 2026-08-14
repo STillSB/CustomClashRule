@@ -1,7 +1,7 @@
+DOMAIN-KEYWORD,z-lib
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,nextcloud.com
 DOMAIN-SUFFIX,justmysocks.net
-DOMAIN-KEYWORD,z-lib
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,moomoo.com
@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,mdblist.com
 # IBKR
 DOMAIN-SUFFIX,api.ibkr.com
+# 小火箭模块
+DOMAIN-SUFFIX,yfamilys.com
 # 观影
 DOMAIN-SUFFIX,挂了.com
 DOMAIN-SUFFIX,xn--ykq321c.com
