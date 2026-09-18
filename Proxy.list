@@ -1,8 +1,8 @@
 DOMAIN-KEYWORD,z-lib
+DOMAIN-SUFFIX,19930522.xyz
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,nextcloud.com
 DOMAIN-SUFFIX,justmysocks.net
-DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,linux.do
@@ -40,3 +40,6 @@ DOMAIN-SUFFIX,xn--vcsx1ip8b8w4i.com
 DOMAIN-SUFFIX,肖申克的救赎.com
 DOMAIN-SUFFIX,xn--74qz10cqsltibh40akss.com
 DOMAIN-SUFFIX,hgeme.com
+# NSFW
+DOMAIN-SUFFIX,huangguoai.com
+DOMAIN-SUFFIX,missav.ai
